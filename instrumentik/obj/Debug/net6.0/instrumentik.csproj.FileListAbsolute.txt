@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\instrumentik\instrumentik\bin\Debug\net6.0\instrumentik.exe
+C:\Users\admin\source\repos\instrumentik\instrumentik\bin\Debug\net6.0\instrumentik.deps.json
+C:\Users\admin\source\repos\instrumentik\instrumentik\bin\Debug\net6.0\instrumentik.runtimeconfig.json
+C:\Users\admin\source\repos\instrumentik\instrumentik\bin\Debug\net6.0\instrumentik.dll
+C:\Users\admin\source\repos\instrumentik\instrumentik\bin\Debug\net6.0\instrumentik.pdb
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.AssemblyInfo.cs
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.dll
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\refint\instrumentik.dll
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.pdb
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\instrumentik.genruntimeconfig.cache
+C:\Users\admin\source\repos\instrumentik\instrumentik\obj\Debug\net6.0\ref\instrumentik.dll
